@@ -2543,7 +2543,7 @@ body {
     min-width: 1170px;
     height: 700px;
     margin: 0 auto;
-    @incude bgImage("../images/first_bg.png",repeat 0 0);
+    @incude bgImage("/portfolio/images/first_bg.png",repeat 0 0);
     padding-top: 64px; }
     .contents #area1 .area_inner {
       width: 1170px;
@@ -2882,7 +2882,7 @@ body {
 #area4 .page_1 .onhappy_bg {
   /* width:1170px; */
   height: 500px;
-  background: url("../images/a_bg.png") repeat center center, url("../images/happy/1p_page.jpg") no-repeat center center;
+  background: url("/portfolio/images/a_bg.png") repeat center center, url("/portfolio/images/happy/1p_page.jpg") no-repeat center center;
   background-size: cover; }
 
 #area4 .page_1 .logo {
@@ -2957,7 +2957,7 @@ body {
 #area4 .page_2 {
   min-width: 1170px;
   height: 700px;
-  background: url(../images/b_bg.png) repeat 0 0, url(../images/happy/2p_page.jpg) no-repeat center center;
+  background: url(/portfolio/images/b_bg.png) repeat 0 0, url(/portfolio/images/happy/2p_page.jpg) no-repeat center center;
   background-size: cover; }
 
 #area4 .page_2 .page_inner {
@@ -3039,7 +3039,7 @@ body {
   position: relative;
   min-width: 1170px;
   margin: 0 auto;
-  background-image: url("../images/page_4_bg.png");
+  background-image: url("/portfolio/images/page_4_bg.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-sizing: 0; }
@@ -3108,7 +3108,7 @@ body {
   width: 240px;
   height: 240px;
   border-radius: 50%;
-  background: url(../images/visual_bg.png) no-repeat 0 0, url(../images/happy/iden.jpg) no-repeat center center;
+  background: url(/portfolio/images/visual_bg.png) no-repeat 0 0, url(/portfolio/images/happy/iden.jpg) no-repeat center center;
   background-size: cover; }
 
 #area4 .page_3 .page_inner .visual .ui {
@@ -3118,7 +3118,7 @@ body {
   width: 220px;
   height: 220px;
   border-radius: 50%;
-  background: url(../images/visual_bg.png) no-repeat 0 0, url(../images/happy/ui.jpg) no-repeat center center;
+  background: url(/portfolio/images/visual_bg.png) no-repeat 0 0, url(/portfolio/images/happy/ui.jpg) no-repeat center center;
   background-size: cover; }
 
 #area4 .page_3 .page_inner .visual .visual {
@@ -3128,7 +3128,7 @@ body {
   width: 240px;
   height: 240px;
   border-radius: 50%;
-  background: url(../images/visual_bg.png) no-repeat 0 0, url(../images/happy/visual.jpg) no-repeat center center;
+  background: url(/portfolio/images/visual_bg.png) no-repeat 0 0, url(/portfolio/images/happy/visual.jpg) no-repeat center center;
   background-size: cover; }
 
 #area4 .page_3 .page_inner .visual p {
@@ -3303,7 +3303,7 @@ body {
 
 #area4 .page_5 .title p {
   width: 112px;
-  border: 2px solid #000;
+  border-bottom: 2px solid #000;
   font-weight: 500; }
 
 #area4 .page_5 .title img {
@@ -3518,7 +3518,7 @@ body {
   float: left;
   width: 360px;
   height: 1870px;
-  background-image: url("../images/happy/a9_left_visual.png");
+  background-image: url("/portfolio/images/happy/a9_left_visual.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-sizing: 0;

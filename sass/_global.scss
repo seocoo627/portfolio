@@ -143,8 +143,8 @@ body{
 		min-width:1170px;
 		height:700px;
 		margin: 0 auto;
-		//background:url("../images/first_bg.png")repeat 0 0;
-		@incude bgImage("../images/first_bg.png",repeat 0 0);
+		//background:url("/portfolio/images/first_bg.png")repeat 0 0;
+		@incude bgImage("/portfolio/images/first_bg.png",repeat 0 0);
 		padding-top:64px;
 
 
